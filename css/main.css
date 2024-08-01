@@ -38,12 +38,10 @@ footer {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-
 }
 
 main .content-wrapper {
-  /* Add the gap property with a value of 20px to create space between the rows and columns. */
-
+  gap: 20px;
 }
 
 .affirmation-block {
