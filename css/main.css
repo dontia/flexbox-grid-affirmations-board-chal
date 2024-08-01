@@ -48,10 +48,8 @@ main .content-wrapper {
   border-radius: 5px;
   width: 100%;
   background: #f2f1fb;
-  /* Add a Flexbox property to make every block with text a flex parent container. */
-
-  /* Add a Flexbox property to align the text in each block at its center. */
-
+  display: flex;
+  justify-content: center;
   padding: 10px;
   border: 1px solid #07c0e6;
 }
