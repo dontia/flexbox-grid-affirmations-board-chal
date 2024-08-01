@@ -27,10 +27,8 @@ ul {
 header,
 main,
 footer {
-  /* Add a Flexbox property to make the content-wrapper a flex parent container. */
-
-  /* Add a Flexbox property to center the contents of each section. */
-
+  display: flex;
+  justify-content: center;
   width: 100%;
 }
 
