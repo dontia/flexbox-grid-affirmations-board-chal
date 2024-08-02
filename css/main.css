@@ -1,17 +1,17 @@
 body {
   text-align: center;
-  background: #261e6d;
+  background: #824084;
   font-family: "Pontano Sans", sans-serif;
   font-weight: 400;
 }
 
 h1 {
   font-size: 3rem;
-  color: white;
+  color: #f2f1fb;
   font-family: "Stint Ultra Expanded", serif;
   font-weight: 400;
   text-decoration: underline;
-  text-decoration-color: #07c0e6;
+  text-decoration-color: #f8b147;
 }
 
 p,
@@ -53,7 +53,7 @@ main .content-wrapper {
   display: flex;
   justify-content: center;
   padding: 10px;
-  border: 1px solid #07c0e6;
+  border: 1px solid #f8b147;
 }
 
 .gif-block {
