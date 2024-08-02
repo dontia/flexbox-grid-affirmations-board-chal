@@ -1,13 +1,15 @@
 body {
   text-align: center;
   background: #261e6d;
-  font-family: 'Mooli', sans-serif;
+  font-family: "Pontano Sans", sans-serif;
+  font-weight: 400;
 }
 
 h1 {
   font-size: 3rem;
   color: white;
-  font-family: 'Croissant One', cursive;
+  font-family: "Stint Ultra Expanded", serif;
+  font-weight: 400;
   text-decoration: underline;
   text-decoration-color: #07c0e6;
 }
